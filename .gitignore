@@ -1,6 +1,6 @@
 *
 
 !.gitignore
-!**/demo.gif
+!*.gif
 !**/*.md
 
