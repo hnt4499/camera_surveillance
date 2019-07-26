@@ -1,6 +1,6 @@
 # Camera Surveillance
 ## Flow
-The product makes use of recent state-of-the-art deep learning techniques as well as parallelization to perform real-time 
+The framework makes use of recent state-of-the-art deep learning techniques as well as parallelization to perform real-time traffic safety surveillance on 4K camera. The workflow is represented:
 ![enter image description here](https://raw.githubusercontent.com/hnt4499/camera_surveillance/master/flow.png)
 ## Demo
 
@@ -17,6 +17,6 @@ The product makes use of recent state-of-the-art deep learning techniques as wel
 </img>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTY1NjMwMCwtODMyNjY4MTIzLC0xNj
-g5NDQyOTI1XX0=
+eyJoaXN0b3J5IjpbLTEzODk2NzY0OTUsLTgzMjY2ODEyMywtMT
+Y4OTQ0MjkyNV19
 -->
